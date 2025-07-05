@@ -1,70 +1,61 @@
-# build_vector_store.py
+
 
 import os
 import json
-from langchain_community.document_loaders import PyPDFLoader
-from langchain.docstore.document import Document
+from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.docstore.document import Document
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
-def load_pdf_documents(pdf_folder):
-    pdf_paths = [os.path.join(pdf_folder, f) for f in os.listdir(pdf_folder) if f.endswith(".pdf")]
-    documents = []
-    for path in pdf_paths:
-        print(f"[PDF] Loading: {path}")
+# Directories
+base_dir = os.path.dirname(__file__)
+pdf_folder = os.path.join(base_dir, "pdfs")
+text_folder = os.path.join(base_dir, "text_data")
+persist_directory = os.path.join(base_dir, "chroma_store")
+
+# Load PDFs
+documents = []
+for file in os.listdir(pdf_folder):
+    if file.endswith(".pdf"):
+        path = os.path.join(pdf_folder, file)
+        print(f"Loading PDF: {path}")
         loader = PyPDFLoader(path)
         documents.extend(loader.load())
-    return documents
 
-def load_text_documents(text_folder):
-    documents = []
-    for filename in os.listdir(text_folder):
-        if filename.endswith(".txt"):
-            path = os.path.join(text_folder, filename)
-            print(f"[TXT] Loading: {path}")
-            with open(path, "r", encoding="utf-8") as file:
-                content = file.read()
+# Load structured text files
+for file in os.listdir(text_folder):
+    if file.endswith(".txt"):
+        path = os.path.join(text_folder, file)
+        print(f"Processing structured text file: {path}")
+        with open(path, "r", encoding="utf-8") as f:
+            lines = f.read().splitlines()
 
-            entries = content.split("}\n")  # Split based on end of each JSON block
-            for entry in entries:
-                if "{" not in entry:
-                    continue
+        buffer, metadata = [], {}
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
+            if line.startswith("{") and line.endswith("}"):
                 try:
-                    text_part = entry.split("{")[0].strip()
-                    json_block = "{" + entry.split("{")[1].strip()  # recover full JSON
-                    metadata = json.loads(json_block)
-
-                    doc = Document(page_content=text_part, metadata=metadata)
+                    metadata = json.loads(line)
+                    doc = Document(page_content="\n".join(buffer).strip(), metadata=metadata)
                     documents.append(doc)
                 except Exception as e:
-                    print(f"[WARN] Skipping malformed entry: {e}")
-    return documents
+                    print(f"Failed to parse metadata in {path}: {e}")
+                buffer = []
+            else:
+                buffer.append(line)
 
-def main():
-    base_dir = os.path.dirname(__file__)
-    pdf_folder = os.path.join(base_dir, "pdfs")
-    text_folder = os.path.join(base_dir, "text_data")
-    persist_directory = os.path.join(base_dir, "chroma_store")
+print(f"Total loaded documents: {len(documents)}")
 
-    print("[INFO] Loading PDF documents...")
-    pdf_docs = load_pdf_documents(pdf_folder)
+# Split into chunks
+splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
+chunks = splitter.split_documents(documents)
+print(f"Total chunks: {len(chunks)}")
 
-    print("[INFO] Loading structured text documents...")
-    text_docs = load_text_documents(text_folder)
-
-    all_documents = pdf_docs + text_docs
-    print(f"[INFO] Total documents loaded: {len(all_documents)}")
-
-    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-    chunks = splitter.split_documents(all_documents)
-    print(f"[INFO] Split into {len(chunks)} chunks.")
-
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-    vectorstore = Chroma.from_documents(documents=chunks, embedding=embeddings, persist_directory=persist_directory)
-    vectorstore.persist()
-
-    print(f"[SUCCESS] Vector store saved to: {persist_directory}")
-
-if __name__ == "__main__":
-    main()
+# Embedding + Vectorstore
+embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+vectorstore = Chroma.from_documents(documents=chunks, embedding=embedding_model, persist_directory=persist_directory)
+vectorstore.persist()
+print(f"[✔] Chroma vector store saved at: {persist_directory}")
