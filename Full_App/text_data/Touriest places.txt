@@ -1,0 +1,174 @@
+1. Hutbay Beach
+Hutbay Beach is located at latitude 10.58703° N and longitude 92.56281° E. It offers a peaceful stretch of shoreline with gentle waves, ideal for casual beach walks and enjoying ocean views near the central area of Little Andaman.
+{
+  "name": "Hutbay Beach",
+  "type": "Beach",
+  "latitude": 10.5870326,
+  "longitude": 92.5628074,
+  "description": "Hutbay Beach is located at latitude 10.58703° N and longitude 92.56281° E. It offers a peaceful stretch of shoreline with gentle waves, ideal for casual beach walks and enjoying ocean views near the central area of Little Andaman."
+}
+
+2. Chattan Beach
+Chattan Beach, at 10.58100° N, 92.56872° E, is a scenic coastal spot known for its rocky outcrops and panoramic sea views. It’s a popular stop for photography and short strolls near Hutbay.
+{
+  "name": "Chattan Beach",
+  "type": "Beach",
+  "latitude": 10.5810040,
+  "longitude": 92.5687194,
+  "description": "Chattan Beach, at 10.58100° N, 92.56872° E, is a scenic coastal spot known for its rocky outcrops and panoramic sea views. It’s a popular stop for photography and short strolls near Hutbay."
+}
+
+3. John Richardson Beach
+Located at 10.54893° N, 92.54470° E, John Richardson Beach is a tranquil, lesser-known beach offering seclusion and natural coastal beauty in southern Little Andaman.
+{
+  "name": "John Richardson Beach",
+  "type": "Beach",
+  "latitude": 10.5489349,
+  "longitude": 92.5446951,
+  "description": "Located at 10.54893° N, 92.54470° E, John Richardson Beach is a tranquil, lesser-known beach offering seclusion and natural coastal beauty in southern Little Andaman."
+}
+4. Sula Beach
+Sula Beach, at 10.54637° N, 92.54376° E, is known for its natural charm, quiet surroundings, and suitability for peaceful family outings and sunrise/sunset watching.
+{
+  "name": "Sula Beach",
+  "type": "Beach",
+  "latitude": 10.5463692,
+  "longitude": 92.5437588,
+  "description": "Sula Beach, at 10.54637° N, 92.54376° E, is known for its natural charm, quiet surroundings, and suitability for peaceful family outings and sunrise/sunset watching."
+}
+5. Light House, Little Andaman
+The Light House in Little Andaman, located at 10.51210° N, 92.50434° E, serves as a navigation aid and also offers scenic coastal views. It is a notable maritime landmark on the island’s western coastline.
+{
+  "name": "Light House, Little Andaman",
+  "type": "Landmark",
+  "latitude": 10.5120973,
+  "longitude": 92.5043376,
+  "description": "The Light House in Little Andaman, located at 10.51210° N, 92.50434° E, serves as a navigation aid and also offers scenic coastal views. It is a notable maritime landmark on the island’s western coastline."
+}
+
+6. Farm Tikery Waterfalls
+Farm Tikery Waterfalls, at 10.59029° N, 92.52649° E, is a scenic inland attraction surrounded by forest and farmland. It's ideal for nature walks and experiencing the island’s fresh water ecosystems.
+{
+  "name": "Farm Tikery Waterfalls",
+  "type": "Waterfall",
+  "latitude": 10.5902931,
+  "longitude": 92.5264898,
+  "description": "Farm Tikery Waterfalls, at 10.59029° N, 92.52649° E, is a scenic inland attraction surrounded by forest and farmland. It's ideal for nature walks and experiencing the island’s fresh water ecosystems."
+}
+ 7. Elephant Park / Children’s Park
+The Elephant Park, also known as the Children’s Park, is located at 10.59185° N, 92.54519° E. It features open green spaces and play areas, making it a family-friendly recreational spot in Little Andaman.
+{
+  "name": "Elephant Park / Children's Park",
+  "type": "Recreational Park",
+  "latitude": 10.5918525,
+  "longitude": 92.5451905,
+  "description": "The Elephant Park, also known as the Children’s Park, is located at 10.59185° N, 92.54519° E. It features open green spaces and play areas, making it a family-friendly recreational spot in Little Andaman."
+}
+8. Sun Rise Point, Machi Dera
+Sun Rise Point, Machi Dera, at 10.59561° N, 92.54222° E, is a picturesque viewpoint ideal for early morning visitors. It offers a panoramic view of the eastern horizon and forest-covered landscape.
+{
+  "name": "Sun Rise Point, Machi Dera",
+  "type": "Viewpoint",
+  "latitude": 10.5956099,
+  "longitude": 92.5422224,
+  "description": "Sun Rise Point, Machi Dera, at 10.59561° N, 92.54222° E, is a picturesque viewpoint ideal for early morning visitors. It offers a panoramic view of the eastern horizon and forest-covered landscape."
+}
+9. White Surf Waterfall
+The White Surf Waterfall, located at latitude 10.61940° N and longitude 92.52488° E, is one of Little Andaman's most popular tourist spots. Surrounded by dense tropical forest, it offers a refreshing environment and a picturesque backdrop for nature enthusiasts.
+{
+  "name": "White Surf Waterfall",
+  "type": "Waterfall",
+  "latitude": 10.6193999,
+  "longitude": 92.5248760,
+  "description": "The White Surf Waterfall, located at latitude 10.61940° N and longitude 92.52488° E, is one of Little Andaman's most popular tourist spots. Surrounded by dense tropical forest, it offers a refreshing environment and a picturesque backdrop for nature enthusiasts."
+}
+
+10. Anza Beach
+ Descriptive Sentence:
+Anza Beach lies at 10.62233° N, 92.54200° E and is known for its quiet charm and wide sandy shore. It’s ideal for peaceful walks, local gatherings, and observing coastal flora and fauna.
+{
+  "name": "Anza Beach",
+  "type": "Beach",
+  "latitude": 10.6223270,
+  "longitude": 92.5419965,
+  "description": "Anza Beach lies at 10.62233° N, 92.54200° E and is known for its quiet charm and wide sandy shore. It’s ideal for peaceful walks, local gatherings, and observing coastal flora and fauna."
+}
+
+11. Netaji Beach
+Netaji Beach, located at 10.63870° N, 92.55229° E, is a clean, scenic coastal stretch named after Netaji Subhas Chandra Bose. It serves as a peaceful getaway and a locally known picnic spot.
+{
+  "name": "Netaji Beach",
+  "type": "Beach",
+  "latitude": 10.6386999,
+  "longitude": 92.5522944,
+  "description": "Netaji Beach, located at 10.63870° N, 92.55229° E, is a clean, scenic coastal stretch named after Netaji Subhas Chandra Bose. It serves as a peaceful getaway and a locally known picnic spot."
+}
+
+12. Kalapatthar Beach
+Kalapatthar Beach is positioned at 10.65873° N, 92.58077° E and features dark rock formations and pristine waters. It is less commercialized, attracting visitors seeking natural beauty and solitude.
+{
+  "name": "Kalapatthar Beach",
+  "type": "Beach",
+  "latitude": 10.6587346,
+  "longitude": 92.5807690,
+  "description": "Kalapatthar Beach is positioned at 10.65873° N, 92.58077° E and features dark rock formations and pristine waters. It is less commercialized, attracting visitors seeking natural beauty and solitude."
+}
+
+13. Butler Bay Beach
+Butler Bay Beach, at 10.67127° N, 92.57473° E, is one of the most famous beaches in Little Andaman, known for its crescent shape, tall palms, and surfing opportunities. It also has eco-huts for tourists.
+{
+  "name": "Butler Bay Beach",
+  "type": "Beach",
+  "latitude": 10.6712718,
+  "longitude": 92.5747343,
+  "description": "Butler Bay Beach, at 10.67127° N, 92.57473° E, is one of the most famous beaches in Little Andaman, known for its crescent shape, tall palms, and surfing opportunities. It also has eco-huts for tourists."
+}
+________________________________________
+14. Katai Beach
+Katai Beach, situated at 10.71731° N, 92.58855° E, is a calm and scenic coastal destination, offering a serene atmosphere for relaxation and coastal exploration in northern Little Andaman.
+{
+  "name": "Katai Beach",
+  "type": "Beach",
+  "latitude": 10.7173085,
+  "longitude": 92.5885481,
+  "description": "Katai Beach, situated at 10.71731° N, 92.58855° E, is a calm and scenic coastal destination, offering a serene atmosphere for relaxation and coastal exploration in northern Little Andaman."
+}
+
+💧 15. Krishna Nala Waterfalls
+The Krishna Nala Waterfalls are located at 10.75278° N, 92.49974° E and are a hidden gem surrounded by dense jungle. It is accessible via trek and offers a cool retreat with flowing streams and green surroundings.
+{
+  "name": "Krishna Nala Waterfalls",
+  "type": "Waterfall",
+  "latitude": 10.7527815,
+  "longitude": 92.4997435,
+  "description": "The Krishna Nala Waterfalls are located at 10.75278° N, 92.49974° E and are a hidden gem surrounded by dense jungle. It is accessible via trek and offers a cool retreat with flowing streams and green surroundings."
+}
+
+16. V.K. Pur Chowk
+V.K. Pur Chowk, at 10.74478° N, 92.56076° E, is a key junction point in northern Little Andaman that connects nearby villages and services. It often serves as a landmark for local orientation and transit.
+{
+  "name": "V.K. Pur Chowk",
+  "type": "Road Junction",
+  "latitude": 10.7447777,
+  "longitude": 92.5607554,
+  "description": "V.K. Pur Chowk, at 10.74478° N, 92.56076° E, is a key junction point in northern Little Andaman that connects nearby villages and services. It often serves as a landmark for local orientation and transit."
+}
+
+17. Fish Market
+The Fish Market in Little Andaman, located at 10.71946° N, 92.55392° E, is a central place for fresh seafood trade. Locals rely on this market for daily fish supplies and local marine produce.
+{
+  "name": "Fish Market",
+  "type": "Marketplace",
+  "latitude": 10.7194557,
+  "longitude": 92.5539242,
+  "description": "The Fish Market in Little Andaman, located at 10.71946° N, 92.55392° E, is a central place for fresh seafood trade. Locals rely on this market for daily fish supplies and local marine produce."
+}
+R.K. Pur Vegetable Market
+The R.K. Pur Vegetable Market, located at latitude 10.69737° N and longitude 92.57066° E, is a local marketplace offering fresh produce, fruits, and vegetables to residents of R.K. Pur and surrounding areas in Little Andaman. It serves as a key hub for daily shopping and local trade.
+{
+  "name": "R.K. Pur Vegetable Market",
+  "type": "Marketplace",
+  "latitude": 10.6973729,
+  "longitude": 92.5706602,
+  "description": "The R.K. Pur Vegetable Market, located at latitude 10.69737° N and longitude 92.57066° E, is a local marketplace offering fresh produce, fruits, and vegetables to residents of R.K. Pur and surrounding areas in Little Andaman. It serves as a key hub for daily shopping and local trade."
+}

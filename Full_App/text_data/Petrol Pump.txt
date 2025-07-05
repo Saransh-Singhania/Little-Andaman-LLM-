@@ -1,0 +1,39 @@
+1. Indian Oil Petrol Pump
+The Indian Oil Petrol Pump in Little Andaman is situated at latitude 10.61493° N and longitude 92.53174° E. It provides fuel and essential automotive supplies to the island's residents and government vehicles, playing a key role in maintaining transport connectivity.
+{
+  "name": "Indian Oil Petrol Pump",
+  "type": "Utility - Fuel Station",
+  "latitude": 10.6149287,
+  "longitude": 92.5317432,
+  "description": "The Indian Oil Petrol Pump in Little Andaman is situated at latitude 10.61493° N and longitude 92.53174° E. It provides fuel and essential automotive supplies to the island's residents and government vehicles, playing a key role in maintaining transport connectivity."
+}
+
+2. Hutbay Dam
+The Hutbay Dam is located at latitude 10.70040° N and longitude 92.55162° E. It serves as a crucial water reservoir and supports the island's irrigation systems, drinking water supply, and local agriculture in Hutbay and surrounding areas.
+{
+  "name": "Hutbay Dam",
+  "type": "Infrastructure - Dam",
+  "latitude": 10.7004004,
+  "longitude": 92.5516198,
+  "description": "The Hutbay Dam is located at latitude 10.70040° N and longitude 92.55162° E. It serves as a crucial water reservoir and supports the island's irrigation systems, drinking water supply, and local agriculture in Hutbay and surrounding areas."
+}
+
+3. Stone Quarry Area
+The Stone Quarry Area in Little Andaman is located at latitude 10.57646° N and longitude 92.54292° E. This site supplies construction-grade stone and aggregate material used in public infrastructure, roads, and private building projects on the island.
+{
+  "name": "Stone Quarry Area",
+  "type": "Industrial - Quarry",
+  "latitude": 10.5764588,
+  "longitude": 92.5429237,
+  "description": "The Stone Quarry Area in Little Andaman is located at latitude 10.57646° N and longitude 92.54292° E. This site supplies construction-grade stone and aggregate material used in public infrastructure, roads, and private building projects on the island."
+}
+
+ 4. ANIDCO Wine Shop
+The ANIDCO Wine Shop is situated at latitude 10.58691° N and longitude 92.55378° E. Operated by the Andaman and Nicobar Islands Development Corporation, it is the authorized outlet for retail liquor distribution in the Hutbay area.
+{
+  "name": "ANIDCO Wine Shop",
+  "type": "Retail - Beverage Outlet",
+  "latitude": 10.5869127,
+  "longitude": 92.5537838,
+  "description": "The ANIDCO Wine Shop is situated at latitude 10.58691° N and longitude 92.55378° E. Operated by the Andaman and Nicobar Islands Development Corporation, it is the authorized outlet for retail liquor distribution in the Hutbay area."
+}

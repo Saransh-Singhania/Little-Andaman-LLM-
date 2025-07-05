@@ -1,0 +1,29 @@
+1. Doordarshan Relay Center, Hutbay
+The Doordarshan Relay Center in Hutbay is located at latitude 10.59683° N and longitude 92.53439° E. This facility rebroadcasts national and regional television signals, ensuring reliable access to public broadcasting services across Little Andaman.
+{
+  "name": "Doordarshan Relay Center, Hutbay",
+  "type": "Broadcasting Facility",
+  "latitude": 10.5968328,
+  "longitude": 92.5343862,
+  "description": "The Doordarshan Relay Center in Hutbay is located at latitude 10.59683° N and longitude 92.53439° E. This facility rebroadcasts national and regional television signals, ensuring reliable access to public broadcasting services across Little Andaman."
+}
+
+ 2. Indian Post Office, Hutbay
+The Indian Post Office in Hutbay is situated at latitude 10.59149° N and longitude 92.53866° E. It provides essential postal, parcel, and banking services to the residents of Hutbay and nearby areas.
+{
+  "name": "Indian Post Office, Hutbay",
+  "type": "Postal Service",
+  "latitude": 10.5914870,
+  "longitude": 92.5386598,
+  "description": "The Indian Post Office in Hutbay is situated at latitude 10.59149° N and longitude 92.53866° E. It provides essential postal, parcel, and banking services to the residents of Hutbay and nearby areas."
+}
+
+3. Post Office, R.K. Pur
+The Post Office at R.K. Pur is located at latitude 10.69733° N and longitude 92.56992° E. It serves as a key communication and parcel distribution hub for northern Little Andaman, facilitating mail delivery and postal savings schemes.
+{
+  "name": "Post Office, R.K. Pur",
+  "type": "Postal Service",
+  "latitude": 10.6973348,
+  "longitude": 92.5699245,
+  "description": "The Post Office at R.K. Pur is located at latitude 10.69733° N and longitude 92.56992° E. It serves as a key communication and parcel distribution hub for northern Little Andaman, facilitating mail delivery and postal savings schemes."
+}

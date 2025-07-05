@@ -1,0 +1,101 @@
+1. Government Primary School, Anna Nagar
+The Government Primary School in Anna Nagar is located at latitude 10.58965° N and longitude 92.54763° E. It provides foundational education to children in the Anna Nagar locality, supporting the educational development of early learners in Little Andaman.
+
+{
+  "name": "Government Primary School, Anna Nagar",
+  "type": "Primary School",
+  "latitude": 10.5896533,
+  "longitude": 92.5476273,
+  "description": "The Government Primary School in Anna Nagar is located at latitude 10.58965° N and longitude 92.54763° E. It provides foundational education to children in the Anna Nagar locality, supporting the educational development of early learners in Little Andaman."
+}
+
+2. St. Mary's School, Anna Nagar
+St. Mary's School in Anna Nagar is situated at latitude 10.58840° N and longitude 92.54786° E. It is a private educational institution offering primary and middle-level education with a focus on values and academic excellence.
+{
+  "name": "St. Mary's School, Anna Nagar",
+  "type": "Private School",
+  "latitude": 10.5884047,
+  "longitude": 92.5478555,
+  "description": "St. Mary's School in Anna Nagar is situated at latitude 10.58840° N and longitude 92.54786° E. It is a private educational institution offering primary and middle-level education with a focus on values and academic excellence."
+}
+
+ 3. Vivekananda Kendra Vidyalaya, Hutbay
+Vivekananda Kendra Vidyalaya in Hutbay is located at latitude 10.60894° N and longitude 92.53210° E. It offers education from primary to high school levels, emphasizing discipline, Indian cultural values, and holistic development.
+{
+  "name": "Vivekananda Kendra Vidyalaya, Hutbay",
+  "type": "High School",
+  "latitude": 10.6089448,
+  "longitude": 92.5321037,
+  "description": "Vivekananda Kendra Vidyalaya in Hutbay is located at latitude 10.60894° N and longitude 92.53210° E. It offers education from primary to high school levels, emphasizing discipline, Indian cultural values, and holistic development."
+}
+
+4. Government Middle School, Netaji Nagar
+The Government Middle School in Netaji Nagar is located at latitude 10.64923° N and longitude 92.56106° E. It caters to middle-grade students and plays a key role in delivering accessible public education in the northern region of Little Andaman.
+{
+  "name": "Government Middle School, Netaji Nagar",
+  "type": "Middle School",
+  "latitude": 10.6492346,
+  "longitude": 92.5610648,
+  "description": "The Government Middle School in Netaji Nagar is located at latitude 10.64923° N and longitude 92.56106° E. It caters to middle-grade students and plays a key role in delivering accessible public education in the northern region of Little Andaman."
+}
+
+5. PM SHRI Govt. Senior Secondary School, R.K. Pur
+The PM SHRI Government Senior Secondary School in R.K. Pur is situated at latitude 10.69562° N and longitude 92.56593° E. It provides higher secondary education and is one of the most prominent public schools in Little Andaman under the PM SHRI initiative.
+{
+  "name": "PM SHRI Govt. Senior Secondary School, R.K. Pur",
+  "type": "Senior Secondary School",
+  "latitude": 10.6956173,
+  "longitude": 92.5659271,
+  "description": "The PM SHRI Government Senior Secondary School in R.K. Pur is situated at latitude 10.69562° N and longitude 92.56593° E. It provides higher secondary education and is one of the most prominent public schools in Little Andaman under the PM SHRI initiative."
+}
+
+6. Ananda Marga Primary School
+Ananda Marga Primary School is located at latitude 10.69971° N and longitude 92.56984° E. It offers early-grade education rooted in a philosophy of self-reliance, community service, and moral education.
+{
+  "name": "Ananda Marga Primary School",
+  "type": "Primary School",
+  "latitude": 10.6997127,
+  "longitude": 92.5698445,
+  "description": "Ananda Marga Primary School is located at latitude 10.69971° N and longitude 92.56984° E. It offers early-grade education rooted in a philosophy of self-reliance, community service, and moral education."
+}
+
+ 7. Green Island School
+Green Island School is situated at latitude 10.73109° N and longitude 92.56549° E. It serves students in the northern part of Little Andaman and emphasizes environmental awareness and quality learning.
+{
+  "name": "Green Island School",
+  "type": "School",
+  "latitude": 10.7310865,
+  "longitude": 92.5654937,
+  "description": "Green Island School is situated at latitude 10.73109° N and longitude 92.56549° E. It serves students in the northern part of Little Andaman and emphasizes environmental awareness and quality learning."
+}
+
+ 8. Anganwadi Centre (Dam Side)
+The Anganwadi Centre near Hutbay Dam is located at latitude 10.69620° N and longitude 92.55316° E. It provides basic nutrition, preschool education, and maternal support services as part of India's Integrated Child Development Scheme.
+{
+  "name": "Anganwadi Centre (Dam Side)",
+  "type": "Preschool/Anganwadi",
+  "latitude": 10.6962031,
+  "longitude": 92.5531607,
+  "description": "The Anganwadi Centre near Hutbay Dam is located at latitude 10.69620° N and longitude 92.55316° E. It provides basic nutrition, preschool education, and maternal support services as part of India's Integrated Child Development Scheme."
+}
+
+9. Government Secondary School, Harminder Bay
+The Government Secondary School in Harminder Bay is situated at latitude 10.56495° N and longitude 92.54455° E. It serves students from grades 6 to 10 and plays a key role in delivering public education in southern Little Andaman.
+{
+  "name": "Government Secondary School, Harminder Bay",
+  "type": "Secondary School",
+  "latitude": 10.5649487,
+  "longitude": 92.5445470,
+  "description": "The Government Secondary School in Harminder Bay is situated at latitude 10.56495° N and longitude 92.54455° E. It serves students from grades 6 to 10 and plays a key role in delivering public education in southern Little Andaman."
+}
+
+10. Government Middle School, Rabindra Nagar
+The Government Middle School in Rabindra Nagar is located at latitude 10.72029° N and longitude 92.55671° E. It provides education for middle-grade students and supports rural education in the Rabindra Nagar locality.
+{
+  "name": "Government Middle School, Rabindra Nagar",
+  "type": "Middle School",
+  "latitude": 10.7202885,
+  "longitude": 92.5567137,
+  "description": "The Government Middle School in Rabindra Nagar is located at latitude 10.72029° N and longitude 92.55671° E. It provides education for middle-grade students and supports rural education in the Rabindra Nagar locality."
+}
+

@@ -1,0 +1,59 @@
+1.Hutbay Government Hospital
+The Hutbay Government Hospital is a major public healthcare facility located at latitude 10.59461° N and longitude 92.53735° E. It serves as the primary hospital for Little Andaman, offering inpatient, outpatient, and emergency medical services to the island's population.
+{
+  "name": "Hutbay Government Hospital",
+  "type": "Hospital",
+  "latitude": 10.5946122,
+  "longitude": 92.5373523,
+  "description": "The Hutbay Government Hospital is a major public healthcare facility located at latitude 10.59461° N and longitude 92.53735° E. It serves as the primary hospital for Little Andaman, offering inpatient, outpatient, and emergency medical services to the island's population."
+}
+
+2.Primary Health Center, Hutbay
+The Primary Health Center in Hutbay is situated at latitude 10.59440° N and longitude 92.53743° E. It provides basic outpatient care, maternal and child health services, and serves as a referral center for surrounding health units.
+{
+  "name": "Primary Health Center, Hutbay",
+  "type": "Primary Health Center",
+  "latitude": 10.5944012,
+  "longitude": 92.5374304,
+  "description": "The Primary Health Center in Hutbay is situated at latitude 10.59440° N and longitude 92.53743° E. It provides basic outpatient care, maternal and child health services, and serves as a referral center for surrounding health units."
+}
+
+3.Office of Senior Veterinary Officer
+The Office of the Senior Veterinary Officer in Hutbay is located at latitude 10.59728° N and longitude 92.53616° E. It manages animal health services, vaccinations, and veterinary outreach programs across Little Andaman.
+
+{
+  "name": "Office of Senior Veterinary Officer",
+  "type": "Veterinary Office",
+  "latitude": 10.5972776,
+  "longitude": 92.5361564,
+  "description": "The Office of the Senior Veterinary Officer in Hutbay is located at latitude 10.59728° N and longitude 92.53616° E. It manages animal health services, vaccinations, and veterinary outreach programs across Little Andaman."
+}
+
+4. Medical Sub-center
+A Medical Sub-center is located at latitude 10.58788° N and longitude 92.52877° E in Hutbay. It provides first-level contact healthcare and supports immunization, maternal care, and minor treatments for the local community.
+{
+  "name": "Medical Sub-center",
+  "type": "Sub-center",
+  "latitude": 10.5878835,
+  "longitude": 92.5287735,
+  "description": "A Medical Sub-center is located at latitude 10.58788° N and longitude 92.52877° E in Hutbay. It provides first-level contact healthcare and supports immunization, maternal care, and minor treatments for the local community."
+}
+5. Veterinary Hospital
+The Veterinary Hospital is located at latitude 10.69391° N and longitude 92.56963° E in R.K. Pur area. It specializes in the treatment of livestock and domestic animals and supports the island's agricultural and animal husbandry sectors.
+{
+  "name": "Veterinary Hospital",
+  "type": "Veterinary Hospital",
+  "latitude": 10.6939124,
+  "longitude": 92.5696292,
+  "description": "The Veterinary Hospital is located at latitude 10.69391° N and longitude 92.56963° E in R.K. Pur area. It specializes in the treatment of livestock and domestic animals and supports the island's agricultural and animal husbandry sectors."
+}
+
+6.Harminder Bay Health and Wellness Center
+The Harminder Bay Health and Wellness Center is situated at latitude 10.56480° N and longitude 92.54221° E. It provides preventive and primary healthcare services to the southern communities of Little Andaman, focusing on wellness and public health.
+{
+  "name": "Harminder Bay Health and Wellness Center",
+  "type": "Health and Wellness Center",
+  "latitude": 10.5648023,
+  "longitude": 92.5422122,
+  "description": "The Harminder Bay Health and Wellness Center is situated at latitude 10.56480° N and longitude 92.54221° E. It provides preventive and primary healthcare services to the southern communities of Little Andaman, focusing on wellness and public health."
+}

@@ -1,0 +1,42 @@
+1.Hutbay Panchayat Office
+The Hutbay Panchayat Office is located at latitude 10.59104° N and longitude 92.53964° E. It functions as the primary local government body for the Hutbay region, overseeing community development, sanitation, and public services.
+
+{
+  "name": "Hutbay Panchayat Office",
+  "type": "Panchayat Office",
+  "latitude": 10.5910435,
+  "longitude": 92.5396373,
+  "description": "The Hutbay Panchayat Office is located at latitude 10.59104° N and longitude 92.53964° E. It functions as the primary local government body for the Hutbay region, overseeing community development, sanitation, and public services."
+}
+
+2.Netaji Nagar Panchayat Office
+The Netaji Nagar Panchayat Office is situated at latitude 10.59357° N and longitude 92.53874° E. It administers civic services and governance for residents of the Netaji Nagar area in Little Andaman.
+
+{
+  "name": "Netaji Nagar Panchayat Office",
+  "type": "Panchayat Office",
+  "latitude": 10.5935704,
+  "longitude": 92.5387397,
+  "description": "The Netaji Nagar Panchayat Office is situated at latitude 10.59357° N and longitude 92.53874° E. It administers civic services and governance for residents of the Netaji Nagar area in Little Andaman."
+}
+
+3.Gram Panchayat Office
+The Gram Panchayat Office located at latitude 10.74294° N and longitude 92.56076° E serves the northernmost communities of Little Andaman. It facilitates grassroots-level administration, local development programs, and rural welfare initiatives.
+
+{
+  "name": "Gram Panchayat Office",
+  "type": "Panchayat Office",
+  "latitude": 10.7429407,
+  "longitude": 92.5607631,
+  "description": "The Gram Panchayat Office located at latitude 10.74294° N and longitude 92.56076° E serves the northernmost communities of Little Andaman. It facilitates grassroots-level administration, local development programs, and rural welfare initiatives."
+}
+
+4.Rabindra Nagar Gram Panchayat
+The Rabindra Nagar Gram Panchayat is based at latitude 10.71986° N and longitude 92.55620° E, delivering essential local governance and rural development services to the Rabindra Nagar village area in Little Andaman.
+{
+  "name": "Rabindra Nagar Gram Panchayat",
+  "type": "Panchayat Office",
+  "latitude": 10.7198563,
+  "longitude": 92.5561987,
+  "description": "The Rabindra Nagar Gram Panchayat is based at latitude 10.71986° N and longitude 92.55620° E, delivering essential local governance and rural development services to the Rabindra Nagar village area in Little Andaman."
+}

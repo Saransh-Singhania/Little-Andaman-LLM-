@@ -1,0 +1,19 @@
+1. Red Oil Palm Plantation
+The Red Oil Palm Plantation in Little Andaman is located at latitude 10.66727° N and longitude 92.56706° E. It is one of the island’s key agricultural assets, contributing to the production of palm oil and supporting the local agro-economy and employment.
+{
+  "name": "Red Oil Palm Plantation",
+  "type": "Agricultural Plantation",
+  "latitude": 10.6672672,
+  "longitude": 92.5670640,
+  "description": "The Red Oil Palm Plantation in Little Andaman is located at latitude 10.66727° N and longitude 92.56706° E. It is one of the island’s key agricultural assets, contributing to the production of palm oil and supporting the local agro-economy and employment."
+}
+
+ 2. Seed Multiplication Farm
+The Seed Multiplication Farm in Little Andaman is situated at latitude 10.58965° N and longitude 92.53213° E. This facility is dedicated to producing high-quality seeds for crop improvement and agricultural sustainability programs across the island.
+{
+  "name": "Seed Multiplication Farm",
+  "type": "Agricultural Research Facility",
+  "latitude": 10.5896545,
+  "longitude": 92.5321346,
+  "description": "The Seed Multiplication Farm in Little Andaman is situated at latitude 10.58965° N and longitude 92.53213° E. This facility is dedicated to producing high-quality seeds for crop improvement and agricultural sustainability programs across the island."
+}

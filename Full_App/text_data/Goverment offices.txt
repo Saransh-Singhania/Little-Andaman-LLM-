@@ -1,0 +1,109 @@
+1. Directorate of Agriculture, Little Andaman
+The Directorate of Agriculture in Little Andaman is located at latitude 10.59160° N and longitude 92.53896° E. It oversees agricultural planning, farmer welfare programs, and crop development initiatives across the island.
+{
+  "name": "Directorate of Agriculture, Little Andaman",
+  "type": "Agriculture Office",
+  "latitude": 10.5916031,
+  "longitude": 92.5389626,
+  "description": "The Directorate of Agriculture in Little Andaman is located at latitude 10.59160° N and longitude 92.53896° E. It oversees agricultural planning, farmer welfare programs, and crop development initiatives across the island."
+}
+
+2. Sub-Pay & Accounts Office
+The Sub-Pay & Accounts Office in Hutbay is situated at latitude 10.59218° N and longitude 92.53818° E. It manages government payroll and financial disbursements for local administrative departments in Little Andaman.
+{
+  "name": "Sub-Pay & Accounts Office, Hutbay",
+  "type": "Finance Office",
+  "latitude": 10.5921794,
+  "longitude": 92.5381788,
+  "description": "The Sub-Pay & Accounts Office in Hutbay is situated at latitude 10.59218° N and longitude 92.53818° E. It manages government payroll and financial disbursements for local administrative departments in Little Andaman."
+}
+
+3. MID, APWD Office
+The MID (Mechanical and Infrastructure Division), APWD Office is located at latitude 10.59328° N and longitude 92.53723° E in Hutbay. It is responsible for civil and public works projects under the Andaman Public Works Department.
+{
+  "name": "MID, APWD Office",
+  "type": "Public Works Office",
+  "latitude": 10.5932759,
+  "longitude": 92.5372312,
+  "description": "The MID (Mechanical and Infrastructure Division), APWD Office is located at latitude 10.59328° N and longitude 92.53723° E in Hutbay. It is responsible for civil and public works projects under the Andaman Public Works Department."
+}
+
+4. Department of Fisheries, Little Andaman
+The Department of Fisheries, Little Andaman is situated at latitude 10.59165° N and longitude 92.53640° E. It manages marine and inland fisheries, promotes sustainable fishing practices, and supports local fishermen.
+{
+  "name": "Department of Fisheries, Little Andaman",
+  "type": "Fisheries Department",
+  "latitude": 10.5916517,
+  "longitude": 92.5363958,
+  "description": "The Department of Fisheries, Little Andaman is situated at latitude 10.59165° N and longitude 92.53640° E. It manages marine and inland fisheries, promotes sustainable fishing practices, and supports local fishermen."
+}
+
+ 5. JE’s, APWD (Water Supply Office)
+The Junior Engineer’s APWD Water Supply Office is located at latitude 10.59312° N and longitude 92.53574° E. It supervises the distribution and maintenance of clean drinking water infrastructure in Hutbay and nearby regions.
+{
+  "name": "JE's, APWD (Water Supply Office)",
+  "type": "Water Supply Department",
+  "latitude": 10.5931164,
+  "longitude": 92.5357412,
+  "description": "The Junior Engineer’s APWD Water Supply Office is located at latitude 10.59312° N and longitude 92.53574° E. It supervises the distribution and maintenance of clean drinking water infrastructure in Hutbay and nearby regions."
+}
+
+6. STS Bus Depot, Hutbay
+The STS Bus Depot in Hutbay lies at latitude 10.59425° N and longitude 92.53575° E. It serves as the primary hub for state-run bus transportation across Little Andaman, managing routes, vehicle maintenance, and schedules.
+{
+  "name": "STS Bus Depot, Hutbay",
+  "type": "Transport Office",
+  "latitude": 10.5942501,
+  "longitude": 92.5357520,
+  "description": "The STS Bus Depot in Hutbay lies at latitude 10.59425° N and longitude 92.53575° E. It serves as the primary hub for state-run bus transportation across Little Andaman, managing routes, vehicle maintenance, and schedules."
+}
+
+7. MID, Sub-Division-II Office
+The MID Sub-Division-II Office is located at latitude 10.59460° N and longitude 92.53552° E. It handles public works and infrastructure development projects in designated sub-divisions of Little Andaman.
+{
+  "name": "MID Sub-Division-II Office",
+  "type": "Infrastructure Division",
+  "latitude": 10.5945981,
+  "longitude": 92.5355159,
+  "description": "The MID Sub-Division-II Office is located at latitude 10.59460° N and longitude 92.53552° E. It handles public works and infrastructure development projects in designated sub-divisions of Little Andaman."
+}
+
+8. DSS Office, Hutbay
+The DSS (Directorate of Shipping Services) Office is situated at latitude 10.59627° N and longitude 92.53766° E. It coordinates shipping schedules, passenger bookings, and maritime logistics connecting Little Andaman with Port Blair.
+{
+  "name": "DSS Office, Hutbay",
+  "type": "Shipping Department",
+  "latitude": 10.5962749,
+  "longitude": 92.5376563,
+  "description": "The DSS (Directorate of Shipping Services) Office is situated at latitude 10.59627° N and longitude 92.53766° E. It coordinates shipping schedules, passenger bookings, and maritime logistics connecting Little Andaman with Port Blair."
+}
+
+9. Electricity Department Office
+The Electricity Department Office in Little Andaman is located at latitude 10.60310° N and longitude 92.53547° E. It is responsible for power distribution, maintenance of electrical infrastructure, and resolving local electricity issues.
+{
+  "name": "Electricity Department Office, Little Andaman",
+  "type": "Electricity Office",
+  "latitude": 10.6031015,
+  "longitude": 92.5354734,
+  "description": "The Electricity Department Office in Little Andaman is located at latitude 10.60310° N and longitude 92.53547° E. It is responsible for power distribution, maintenance of electrical infrastructure, and resolving local electricity issues."
+}
+
+10. APWD Office, R.K. Pur
+The APWD Office in R.K. Pur is situated at latitude 10.68862° N and longitude 92.57076° E. It oversees road construction, maintenance, and civil engineering works in the northern areas of Little Andaman.
+{
+  "name": "APWD Office, R.K. Pur",
+  "type": "Public Works Office",
+  "latitude": 10.6886189,
+  "longitude": 92.5707569,
+  "description": "The APWD Office in R.K. Pur is situated at latitude 10.68862° N and longitude 92.57076° E. It oversees road construction, maintenance, and civil engineering works in the northern areas of Little Andaman."
+}
+
+11. Government Progeny Farm (Department of Agriculture)
+The Government Progeny Farm, operated by the Department of Agriculture, is located approximately 19 km from Hutbay at latitude 10.71810° N and longitude 92.57103° E. It supports seed production, plant breeding, and agricultural research for farmers in Little Andaman.
+{
+  "name": "Government Progeny Farm, Department of Agriculture",
+  "type": "Agricultural Facility",
+  "latitude": 10.7181019,
+  "longitude": 92.5710255,
+  "description": "The Government Progeny Farm, operated by the Department of Agriculture, is located approximately 19 km from Hutbay at latitude 10.71810° N and longitude 92.57103° E. It supports seed production, plant breeding, and agricultural research for farmers in Little Andaman."
+}

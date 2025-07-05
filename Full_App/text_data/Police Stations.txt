@@ -1,0 +1,39 @@
+1. R.K. Pur Police Station
+The R.K. Pur Police Station is located at latitude 10.71628° N and longitude 92.57142° E. It is the primary law enforcement office for R.K. Pur and surrounding regions, ensuring public safety, law compliance, and rapid response services in northern Little Andaman.
+{
+  "name": "R.K. Pur Police Station",
+  "type": "Police Station",
+  "latitude": 10.71628,
+  "longitude": 92.57142,
+  "description": "The R.K. Pur Police Station is located at latitude 10.71628° N and longitude 92.57142° E. It is the primary law enforcement office for R.K. Pur and surrounding regions, ensuring public safety, law compliance, and rapid response services in northern Little Andaman."
+}
+
+ 2. Indian Coast Guard Station, Hutbay
+The Indian Coast Guard Station in Hutbay is situated at latitude 10.58176° N and longitude 92.56315° E. It monitors maritime security, assists in coastal rescue operations, and plays a key role in safeguarding the sea borders of Little Andaman.
+{
+  "name": "Indian Coast Guard Station, Hutbay",
+  "type": "Coast Guard Station",
+  "latitude": 10.5817588,
+  "longitude": 92.5631475,
+  "description": "The Indian Coast Guard Station in Hutbay is situated at latitude 10.58176° N and longitude 92.56315° E. It monitors maritime security, assists in coastal rescue operations, and plays a key role in safeguarding the sea borders of Little Andaman."
+}
+
+3. Fire Station, Hutbay
+The Fire Station in Hutbay, Little Andaman is located at latitude 10.58645° N and longitude 92.56120° E. It provides fire safety, emergency response, and disaster mitigation services to the island's residents.
+{
+  "name": "Fire Station, Hutbay",
+  "type": "Fire Station",
+  "latitude": 10.5864493,
+  "longitude": 92.5612020,
+  "description": "The Fire Station in Hutbay, Little Andaman is located at latitude 10.58645° N and longitude 92.56120° E. It provides fire safety, emergency response, and disaster mitigation services to the island's residents."
+}
+
+4. Forest Check Post, Ramkrishna Pur
+The Forest Check Post at Ramkrishna Pur lies at latitude 10.68270° N and longitude 92.56918° E. It plays a vital role in monitoring forest conservation, preventing illegal logging, and enforcing environmental regulations in northern Little Andaman.
+{
+  "name": "Forest Check Post, Ramkrishna Pur",
+  "type": "Forest Protection Office",
+  "latitude": 10.6827034,
+  "longitude": 92.5691795,
+  "description": "The Forest Check Post at Ramkrishna Pur lies at latitude 10.68270° N and longitude 92.56918° E. It plays a vital role in monitoring forest conservation, preventing illegal logging, and enforcing environmental regulations in northern Little Andaman."
+}

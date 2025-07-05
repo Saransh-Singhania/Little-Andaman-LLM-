@@ -1,0 +1,9 @@
+Hutbay Harbor is the main sea port of Little Andaman, located at latitude 10.59092° N and longitude 92.56236° E. It serves as the primary docking point for passenger ferries and cargo vessels, connecting the island to Port Blair and facilitating essential transport and logistics services for the region.
+{
+  "name": "Hutbay Harbor",
+  "type": "Harbor",
+  "latitude": 10.59092,
+  "longitude": 92.56236,
+  "description": "Hutbay Harbor is the main sea port of Little Andaman, located at latitude 10.59092° N and longitude 92.56236° E. It serves as the primary docking point for passenger ferries and cargo vessels, connecting the island to Port Blair and facilitating essential transport and logistics services for the region."
+}
+
