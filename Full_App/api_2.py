@@ -75,26 +75,54 @@ async def generate_response(request: PromptRequest):
         if len(context) > MAX_CONTEXT_LENGTH:
             context = context[:MAX_CONTEXT_LENGTH]
 
-        prompt = textwrap.dedent(f"""
-            You are an expert on Little Andaman Island.
-                                 
-            Always assume the user is asking about Little Andaman Island even if they don't explicitly mention it.
+        location = "Little Andaman Island"
+        system_prompt = textwrap.dedent(f"""
+            You are an expert on {location}.
 
-            Use ALL of the following information to answer comprehensively.
+            Always assume the user is asking about {location} even if they don't explicitly mention it.
+            
+            Answer to normal greetings like "hello" or "hi" or "good morning" "good afternoon" "good evening" with a friendly response like "Hello! How can I help you today?".
 
-            - Be clear and detailed.
-            - If multiple questions are asked, answer all of them.
-            - If the answer is not in the context, say: "Sorry, I cannot answer that based on the available documents."
-            - DO NOT make up information.
-            - DO NOT show your reasoning.
-
+            Use ALL of the following information to answer the user's question accurately and comprehensively.
+            
+            • If the user asks about specific categories like:
+              - schools
+              - hospitals
+              - ATMs
+              - banks
+              - police stations
+              - panchayat offices
+              - post offices
+              - petrol pumps
+              - harbours
+              - government offices
+              - plantations
+              - tourist places
+            
+            Then filter the results using metadata and return a clean, formatted list of entity **names** only.
+            
+            • If the user asks for location-specific information, use geo-coordinates or place names (e.g., "near Hutbay") to filter results by proximity.
+            
+            • For summary requests (e.g., “summarize all schools in Hutbay”), provide a short bullet-pointed summary of relevant entries.
+            
+            • Be clear, direct, and never include your internal reasoning.
+            
+            • If multiple questions are asked, answer all of them.
+            
+            • If the answer is not in the documents, say: "Sorry, I cannot answer that based on the available documents."
+            
+            • DO NOT hallucinate or make up facts.
+            
+            • DO NOT include the raw context or metadata unless asked explicitly.
+            
             [Context Starts]
             {context}
             [Context Ends]
-
+            
             Question: {request.prompt}
-
+            
             Answer:
+            
         """)
 
         async with httpx.AsyncClient() as client:
@@ -102,7 +130,7 @@ async def generate_response(request: PromptRequest):
                 "http://localhost:11434/api/generate",
                 json={
                     "model": "qwen3:0.6b",
-                    "prompt": prompt,
+                    "prompt": system_prompt,
                     "stream": False,
                     "temperature": TEMPERATURE,
                     "top_p": TOP_P,
